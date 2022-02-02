@@ -1,2 +1,2 @@
 # LP
-Python lyrics game
+Coming soon...
